@@ -4,10 +4,10 @@ import csv
 import os
 
 #Assign a variable to load a file from a path
-file_to_load = os.path.join('election-analysis','Resources','election_results.csv')
+file_to_load = os.path.join('Resources','election_results.csv')
 
 #Create a filename variable to a direct or indirect path to the file 
-file_to_save = os.path.join('election-analysis','analysis','election_analysis.txt')
+file_to_save = os.path.join('analysis','election_analysis.txt')
 
 #1a. The total number of votes cast
 total_votes = 0
