@@ -1,5 +1,10 @@
 # Election Analysis Challenge with Python and Visual Studio Code
 
+## Resources 
+* Data Source: [election_results.csv](Resources/election_results.csv)
+* Software: Python 3.8.5, Visual Code Studio 1.52.1
+* PyPoll_Challenge Code: [PyPoll_Challenge](PyPoll.py) 
+
 ## Overview of Election Audit
 Colorado Board of Elections requested data analysis to extract the following information:
   1. Total number of votes cast 
